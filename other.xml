@@ -1,0 +1,14 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="docker-compose://[/home/morontt/www/digisec_bi/docker-compose.yml]:flask/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="docker-compose://[/home/morontt/www/digisec_bi/docker-compose.yml]:flask/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
