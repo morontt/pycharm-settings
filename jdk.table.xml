@@ -1,9 +1,9 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.7.6 (/usr/bin/python2.7)" />
+      <name value="Python 2.7.12 (/usr/bin/python2.7)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.6" />
+      <version value="Python 2.7.12" />
       <homePath value="/usr/bin/python2.7" />
       <roots>
         <classPath>
@@ -14,12 +14,7 @@
             <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
             <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
             <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gst-0.10" />
             <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-            <root type="simple" url="file:///usr/lib/pymodules/python2.7" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1247972723" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
@@ -35,18 +30,18 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Remote Python 2.7.13 Docker Compose (flask at [/home/morontt/www/digisec_bi/docker-compose.yml])" />
+      <name value="Remote Python 2.7.13 Docker Compose (flask at [/home/harchenko/www/digisec_bi/docker-compose.yml])" />
       <type value="Python SDK" />
       <version value="Python 2.7.13" />
-      <homePath value="docker-compose://[/home/morontt/www/digisec_bi/docker-compose.yml]:flask/python" />
+      <homePath value="docker-compose://[/home/harchenko/www/digisec_bi/docker-compose.yml]:flask/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1701450664/249572967" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1701450664/673165940" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1701450664/726551399" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1701450664/-183260405" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1701450664" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2076945420/249572967" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2076945420/673165940" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2076945420/726551399" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2076945420/-183260405" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-2076945420" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
@@ -66,10 +61,10 @@
         <PathMappingSettings>
           <option name="pathMappings">
             <list>
-              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1701450664/249572967" remote-root="/usr/local/lib/python2.7" />
-              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1701450664/673165940" remote-root="/usr/local/lib/python2.7/plat-linux2" />
-              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1701450664/726551399" remote-root="/usr/local/lib/python2.7/lib-tk" />
-              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-1701450664/-183260405" remote-root="/usr/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2076945420/249572967" remote-root="/usr/local/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2076945420/673165940" remote-root="/usr/local/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2076945420/726551399" remote-root="/usr/local/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-2076945420/-183260405" remote-root="/usr/local/lib/python2.7/site-packages" />
             </list>
           </option>
         </PathMappingSettings>
